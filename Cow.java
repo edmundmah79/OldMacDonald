@@ -2,7 +2,7 @@ class Cow implements Animal //implements Animal
 {     
 	protected String myType;
 	protected String mySound;
-	public Cow(String type, String sound, String name)
+	public Cow(String type, String sound)
 	{
 		myType = type;
 		mySound = sound;
